@@ -1,4 +1,4 @@
-# Solu-oDesafioTarget
+# Solução Desafio Target
 
 Este repositório contém uma 5 soluções de questões de programação básica.
 
